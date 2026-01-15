@@ -29,3 +29,4 @@ $benutzernamen = $fehler | ForEach-Object {
 Write-Output $benutzernamen
 
 #Write-Output "Fehler pro Benutzer:"
+#Hier schreibe ich einen kommentierten Code, der die Ausgabe formatiert. dieser kommentar wurde durch copilot erstellt. 
